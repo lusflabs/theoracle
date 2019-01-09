@@ -1,3 +1,8 @@
 Clone the StarterProject App Template:
 
 >>> git clone --recurse-submodules git@github.com:mbientlab/MetaWear-SDK-iOS-macOS-tvOS.git
+
+2.1.2.1. UI Elements
+To add a start and stop button using interface builder, so open up iOS/Main.storyboard.
+
+Then drag two buttons onto the Device View Controller and connect the buttons to DeviceViewController.swift.
